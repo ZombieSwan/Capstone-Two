@@ -23,6 +23,8 @@ Sentiment scores were influential but inconsistent predictors.
 
 ![image](https://github.com/ZombieSwan/Capstone-Two/assets/128863293/c01f9998-b210-45e3-a06b-cfc6acda1398)
 
+![image](https://github.com/ZombieSwan/Capstone-Two/assets/128863293/68454bfa-4565-4262-a0f9-3eabe7943fc8)
+
 
 ### Conclusions:
 Sentiment data combined with traditional financial indicators can predict IPO excess returns to a certain extent. However, accuracy tends to decrease for longer-term horizons.
