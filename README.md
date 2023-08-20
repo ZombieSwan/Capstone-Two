@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/ZombieSwan/Capstone-Two/assets/128863293/72231686-8f60-47fb-9ba7-b2adcf1cbb85)
 
 # Predicting IPO Excess Returns: A Sentiment Analysis Approach
 
