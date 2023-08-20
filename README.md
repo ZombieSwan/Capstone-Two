@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Predicting IPO Excess Returns: A Sentiment Analysis Approach
 
 ### Overview:
